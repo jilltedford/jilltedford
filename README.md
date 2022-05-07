@@ -10,7 +10,7 @@ I plan on joining Parsity's part-time Software Engineering bootcamp starting Jul
 
 
 📫 How to reach me: 
-- GitHub: @jilltedford
+
 - Email: jilltedford@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jill-a-tedford/
 
