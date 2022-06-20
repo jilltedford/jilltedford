@@ -3,7 +3,7 @@
 
 I’m working on becoming a full stack developer! 
 
-I’m currently learning JavaScript through #dev30. 
+I’m currently learning JavaScript through #dev30 and freecodecamp.org.
 
 I plan on joining Parsity's part-time Software Engineering bootcamp starting July 2022.
 
