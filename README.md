@@ -3,7 +3,9 @@
 
 I’m working on becoming a full stack developer! 
 
-I plan on joining Parsity's part-time Software Engineering bootcamp starting July 2022.
+I am joining Parsity's part-time Software Engineering program starting July 2022.
+
+In the meantime, I'm learning the basics on Codecademy.com. 
 
 
 
