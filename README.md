@@ -3,10 +3,7 @@
 
 I’m working on becoming a full stack developer! 
 
-I am joining Parsity's part-time Software Engineering program starting July 2022.
-
-In the meantime, I'm learning the basics through Codecademy.com. 
-
+I am a part-time Software Engineering student at Parsity, since July 2022.
 
 
 📫 How to reach me: 
