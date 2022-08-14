@@ -1,7 +1,7 @@
 # Hi, I’m Jill! 
 
 
-I’m working on becoming a full stack developer! 
+I’m working on becoming a full stack developer.
 
 I am a part-time Software Engineering student at Parsity, since July 2022.
 
